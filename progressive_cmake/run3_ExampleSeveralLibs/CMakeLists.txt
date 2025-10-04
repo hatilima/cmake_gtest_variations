@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 set(CMAKE_CTEST_ARGUMENTS "--verbose")
+
 enable_testing()
 
 project(run3_ExampleProject)
