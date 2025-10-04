@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/CMakeFiles/googletest
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/CMakeFiles/googletest.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/CMakeFiles/googletest-complete.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

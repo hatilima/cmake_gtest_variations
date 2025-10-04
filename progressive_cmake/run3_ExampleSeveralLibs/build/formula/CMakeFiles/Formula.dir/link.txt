@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFormula.a CMakeFiles/Formula.dir/Formula.cpp.o
+/usr/bin/ranlib libFormula.a

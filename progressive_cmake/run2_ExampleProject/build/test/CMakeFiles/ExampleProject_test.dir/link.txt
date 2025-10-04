@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ExampleProject_test.dir/Formula_test.cpp.o CMakeFiles/ExampleProject_test.dir/main.cpp.o -o ExampleProject_test  ../src/libExampleProject_lib.a ../lib/libgtest.a -lpthread 

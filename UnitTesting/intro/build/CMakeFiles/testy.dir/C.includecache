@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/testy/customer.h
+
+../include/testy/widget.h
+
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/customer.c
+testy/customer.h
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/testy/customer.h
+
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/main.c
+testy/customer.h
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/testy/customer.h
+testy/widget.h
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/testy/widget.h
+
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/widget.c
+testy/widget.h
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/src/testy/widget.h
+

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/src",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -g -std=gnu++14 -o CMakeFiles/ExampleProject_run.dir/Formula.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/Formula.cpp",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/Formula.cpp",
+  "output": "src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/src",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -g -std=gnu++14 -o CMakeFiles/ExampleProject_run.dir/main.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/main.cpp",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/main.cpp",
+  "output": "src/CMakeFiles/ExampleProject_run.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/src",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -g -std=gnu++14 -o CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/Formula.cpp",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/Formula.cpp",
+  "output": "src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/src",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -g -std=gnu++14 -o CMakeFiles/ExampleProject_lib.dir/main.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/main.cpp",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src/main.cpp",
+  "output": "src/CMakeFiles/ExampleProject_lib.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock/include -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest -g -std=c++1z -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock/src/gmock-all.cc",
+  "output": "lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest -g -std=c++1z -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googlemock/src/gmock_main.cc",
+  "output": "lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/lib/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/include -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest -g -std=c++1z -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/src/gtest-all.cc",
+  "output": "lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/lib/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest -g -std=c++1z -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/src/gtest_main.cc",
+  "output": "lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/test",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest -g -std=gnu++1z -o CMakeFiles/ExampleProject_test.dir/Formula_test.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/test/Formula_test.cpp",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/test/Formula_test.cpp",
+  "output": "test/CMakeFiles/ExampleProject_test.dir/Formula_test.cpp.o"
+},
+{
+  "directory": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/build/test",
+  "command": "/usr/bin/c++  -I/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/src -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/lib/googletest/googletest -g -std=gnu++1z -o CMakeFiles/ExampleProject_test.dir/main.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleProject/test/main.cpp",
+  "file": "/home/hatilima/Hatilima/Code/C/cmake/ExampleProject/test/main.cpp",
+  "output": "test/CMakeFiles/ExampleProject_test.dir/main.cpp.o"
+}
+]

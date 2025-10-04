@@ -1,0 +1,16 @@
+1. Create build directory:
+    $ mkdir build
+
+2. Navigate to the build directory:
+    $ cd build
+
+3. From within the build directory, create the build tools using CMake:
+    $ cmake .. -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles"
+
+4. From within the build directory, build the executables using Makefile's make:
+    $ make
+
+5. From within the build directory, run the tests:
+    $ ./test/ExampleProject_test
+
+

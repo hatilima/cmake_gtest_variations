@@ -1,0 +1,3 @@
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/CMakeFiles/rebuild_cache.dir
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/CMakeFiles/testy.dir
+/home/hatilima/Hatilima/Code/C/UnitTesting/intro/build/CMakeFiles/edit_cache.dir

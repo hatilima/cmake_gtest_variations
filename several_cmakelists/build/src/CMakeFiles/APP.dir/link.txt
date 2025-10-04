@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wextra -g -O3 CMakeFiles/APP.dir/main.cpp.o -o /home/hatilima/Hatilima/Code/C/several_cmakelists/bin/APP  libtools.a 

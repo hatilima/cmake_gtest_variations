@@ -1,0 +1,17 @@
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/CMakeFiles/edit_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/CMakeFiles/rebuild_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/_deps/googletest-build/googletest/CMakeFiles/edit_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/_deps/googletest-build/googletest/CMakeFiles/rebuild_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/src/CMakeFiles/ExampleProject_run.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/src/CMakeFiles/edit_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/src/CMakeFiles/rebuild_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/formula/CMakeFiles/Formula.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/formula/CMakeFiles/edit_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/formula/CMakeFiles/rebuild_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/test/CMakeFiles/ExampleProject_test.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/test/CMakeFiles/edit_cache.dir
+/home/hatilima/Hatilima/Code/C/cmake/ExampleCmakeGitCloneGTest/build/test/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TESTAPP.dir/test.cpp.o -o /home/hatilima/Hatilima/Code/C/several_cmakelists/bin/TESTAPP  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a -lpthread 
