@@ -1,4 +1,4 @@
-# Install script for directory: /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/googletest
+# Install script for directory: /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/googletest/googlemock/cmake_install.cmake")
+  include("/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/googletest/googlemock/cmake_install.cmake")
 endif()
 

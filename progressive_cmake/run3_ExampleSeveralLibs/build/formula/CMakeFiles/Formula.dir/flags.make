@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/formula
+CXX_INCLUDES = -I/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/formula
 
 CXX_FLAGS = -g -std=gnu++14
 

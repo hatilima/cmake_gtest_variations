@@ -57,10 +57,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs
+CMAKE_SOURCE_DIR = /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build
+CMAKE_BINARY_DIR = /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,14 +132,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/CMakeFiles /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula//CMakeFiles/progress.marks
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/CMakeFiles 0
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/CMakeFiles /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula//CMakeFiles/progress.marks
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/clean
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/clean
 .PHONY : clean
 
 # The main clean target
@@ -148,22 +148,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/preinstall
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/preinstall
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 formula/CMakeFiles/Formula.dir/rule:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/CMakeFiles/Formula.dir/rule
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 formula/CMakeFiles/Formula.dir/rule
 .PHONY : formula/CMakeFiles/Formula.dir/rule
 
 # Convenience name for target.
@@ -172,7 +172,7 @@ Formula: formula/CMakeFiles/Formula.dir/rule
 
 # fast build rule for target.
 Formula/fast:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/build
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/build
 .PHONY : Formula/fast
 
 Formula.o: Formula.cpp.o
@@ -180,7 +180,7 @@ Formula.o: Formula.cpp.o
 
 # target to build an object file
 Formula.cpp.o:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/Formula.cpp.o
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/Formula.cpp.o
 .PHONY : Formula.cpp.o
 
 Formula.i: Formula.cpp.i
@@ -188,7 +188,7 @@ Formula.i: Formula.cpp.i
 
 # target to preprocess a source file
 Formula.cpp.i:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/Formula.cpp.i
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/Formula.cpp.i
 .PHONY : Formula.cpp.i
 
 Formula.s: Formula.cpp.s
@@ -196,7 +196,7 @@ Formula.s: Formula.cpp.s
 
 # target to generate assembly for a file
 Formula.cpp.s:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/Formula.cpp.s
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(MAKE) $(MAKESILENT) -f formula/CMakeFiles/Formula.dir/build.make formula/CMakeFiles/Formula.dir/Formula.cpp.s
 .PHONY : Formula.cpp.s
 
 # Help Target
@@ -226,6 +226,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(ExampleProject)
+project(run3_ExampleProject)
 
 set(CMAKE_CXX_STANDARD 14)
 

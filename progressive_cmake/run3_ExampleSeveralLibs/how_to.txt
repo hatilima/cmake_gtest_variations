@@ -11,6 +11,6 @@
     $ make
 
 5. From within the build directory, run the tests:
-    $ ./test/ExampleProject_test
+    $ ./test/run3_ExampleProject_test
 
 

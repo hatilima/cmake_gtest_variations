@@ -1,4 +1,4 @@
-# Install script for directory: /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs
+# Install script for directory: /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,22 +44,22 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/src/cmake_install.cmake")
+  include("/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula/cmake_install.cmake")
+  include("/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/test/cmake_install.cmake")
+  include("/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/test/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/googletest/cmake_install.cmake")
+  include("/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/googletest/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -70,5 +70,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

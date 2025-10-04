@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/googletest/googlemock/include -I/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/googletest/googlemock -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/googletest/googletest
+CXX_INCLUDES = -I/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/googletest/googlemock/include -I/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/googletest/googlemock -isystem /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/googletest/googletest/include -isystem /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/googletest/googletest
 
 CXX_FLAGS = -g -std=c++1z -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
 

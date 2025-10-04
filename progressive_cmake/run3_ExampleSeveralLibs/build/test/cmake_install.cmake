@@ -1,4 +1,4 @@
-# Install script for directory: /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/test
+# Install script for directory: /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

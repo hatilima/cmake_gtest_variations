@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs
+CMAKE_SOURCE_DIR = /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build
+CMAKE_BINARY_DIR = /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build
 
 # Include any dependencies generated for this target.
 include formula/CMakeFiles/Formula.dir/depend.make
@@ -70,18 +70,18 @@ include formula/CMakeFiles/Formula.dir/progress.make
 include formula/CMakeFiles/Formula.dir/flags.make
 
 formula/CMakeFiles/Formula.dir/Formula.cpp.o: formula/CMakeFiles/Formula.dir/flags.make
-formula/CMakeFiles/Formula.dir/Formula.cpp.o: /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/formula/Formula.cpp
+formula/CMakeFiles/Formula.dir/Formula.cpp.o: /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/formula/Formula.cpp
 formula/CMakeFiles/Formula.dir/Formula.cpp.o: formula/CMakeFiles/Formula.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object formula/CMakeFiles/Formula.dir/Formula.cpp.o"
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT formula/CMakeFiles/Formula.dir/Formula.cpp.o -MF CMakeFiles/Formula.dir/Formula.cpp.o.d -o CMakeFiles/Formula.dir/Formula.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/formula/Formula.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object formula/CMakeFiles/Formula.dir/Formula.cpp.o"
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT formula/CMakeFiles/Formula.dir/Formula.cpp.o -MF CMakeFiles/Formula.dir/Formula.cpp.o.d -o CMakeFiles/Formula.dir/Formula.cpp.o -c /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/formula/Formula.cpp
 
 formula/CMakeFiles/Formula.dir/Formula.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Formula.dir/Formula.cpp.i"
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/formula/Formula.cpp > CMakeFiles/Formula.dir/Formula.cpp.i
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/formula/Formula.cpp > CMakeFiles/Formula.dir/Formula.cpp.i
 
 formula/CMakeFiles/Formula.dir/Formula.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Formula.dir/Formula.cpp.s"
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/formula/Formula.cpp -o CMakeFiles/Formula.dir/Formula.cpp.s
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/formula/Formula.cpp -o CMakeFiles/Formula.dir/Formula.cpp.s
 
 # Object files for target Formula
 Formula_OBJECTS = \
@@ -93,19 +93,19 @@ Formula_EXTERNAL_OBJECTS =
 formula/libFormula.a: formula/CMakeFiles/Formula.dir/Formula.cpp.o
 formula/libFormula.a: formula/CMakeFiles/Formula.dir/build.make
 formula/libFormula.a: formula/CMakeFiles/Formula.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libFormula.a"
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula && $(CMAKE_COMMAND) -P CMakeFiles/Formula.dir/cmake_clean_target.cmake
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Formula.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libFormula.a"
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula && $(CMAKE_COMMAND) -P CMakeFiles/Formula.dir/cmake_clean_target.cmake
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Formula.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 formula/CMakeFiles/Formula.dir/build: formula/libFormula.a
 .PHONY : formula/CMakeFiles/Formula.dir/build
 
 formula/CMakeFiles/Formula.dir/clean:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula && $(CMAKE_COMMAND) -P CMakeFiles/Formula.dir/cmake_clean.cmake
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula && $(CMAKE_COMMAND) -P CMakeFiles/Formula.dir/cmake_clean.cmake
 .PHONY : formula/CMakeFiles/Formula.dir/clean
 
 formula/CMakeFiles/Formula.dir/depend:
-	cd /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/formula /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula /home/hatilima/Hatilima/Code/C/cmake/ExampleSeveralLibs/build/formula/CMakeFiles/Formula.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/formula /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula /home/hatilima/Hatilima/Code/C/cmake_gtest/cmake_gtest_variations/progressive_cmake/run3_ExampleSeveralLibs/build/formula/CMakeFiles/Formula.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : formula/CMakeFiles/Formula.dir/depend
 
